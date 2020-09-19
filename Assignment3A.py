@@ -1,6 +1,4 @@
-#Bhavya shah
-#SYCS
-#4072
+
 from sys import maxsize 
 
 
